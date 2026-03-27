@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\nbc_task10\\task10\\intermediate\\build\\win64\\unrealeditor\\inc\\task10\\uht\\task10gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\nbc_task10\\task10\\intermediate\\build\\win64\\x64\\task10editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\nbc_task10\\task10\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\task10\\definitions.task10.h",
+            "d:\\unreal\\nbc_task10\\task10\\source\\task10\\task10gamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal\\nbc_task10\\task10\\intermediate\\build\\win64\\unrealeditor\\inc\\task10\\uht\\task10gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
