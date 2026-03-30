@@ -15,6 +15,16 @@
     <ProjectReference Include="C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.csproj"><Private>false</Private></ProjectReference>
   </ItemGroup>
   <ItemGroup>
+  <Compile Include="..\..\..\..\Plugins\Developer\RiderLink\Source\RD\RD.Build.cs"><Link>Plugins\Developer\RiderLink\Source\RD\RD.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\Developer\RiderLink\Source\RiderBlueprint\RiderBlueprint.Build.cs"><Link>Plugins\Developer\RiderLink\Source\RiderBlueprint\RiderBlueprint.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\Developer\RiderLink\Source\RiderDebuggerSupport\RiderDebuggerSupport.Build.cs"><Link>Plugins\Developer\RiderLink\Source\RiderDebuggerSupport\RiderDebuggerSupport.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\Developer\RiderLink\Source\RiderGameControl\RiderGameControl.Build.cs"><Link>Plugins\Developer\RiderLink\Source\RiderGameControl\RiderGameControl.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\Developer\RiderLink\Source\RiderLC\RiderLC.Build.cs"><Link>Plugins\Developer\RiderLink\Source\RiderLC\RiderLC.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\Developer\RiderLink\Source\RiderLink\RiderLink.Build.cs"><Link>Plugins\Developer\RiderLink\Source\RiderLink\RiderLink.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\Developer\RiderLink\Source\RiderLogging\RiderLogging.Build.cs"><Link>Plugins\Developer\RiderLink\Source\RiderLogging\RiderLogging.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.Build.cs"><Link>Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\TaskModule\Source\TaskModule\TaskModule.Build.cs"><Link>Plugins\TaskModule\Source\TaskModule\TaskModule.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\Temporary\Source\Temporary\Temporary.Build.cs"><Link>Plugins\Temporary\Source\Temporary\Temporary.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\Task10.Target.cs"><Link>Source\Task10.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\Task10Editor.Target.cs"><Link>Source\Task10Editor.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\Task10\Task10.Build.cs"><Link>Source\Task10\Task10.Build.cs</Link></Compile>

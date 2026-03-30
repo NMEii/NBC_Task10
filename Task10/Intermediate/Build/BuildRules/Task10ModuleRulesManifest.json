@@ -1,6 +1,15 @@
 {
 	"SourceFiles": [
 		"D:\\Unreal\\NBC_Task10\\Task10\\Source\\Task10\\Task10.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\Developer\\RiderLink\\Source\\RiderDebuggerSupport\\RiderDebuggerSupport.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\Developer\\RiderLink\\Source\\RiderLC\\RiderLC.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"D:\\Unreal\\NBC_Task10\\Task10\\Plugins\\TaskModule\\Source\\TaskModule\\TaskModule.Build.cs",
 		"D:\\Unreal\\NBC_Task10\\Task10\\Source\\Task10.Target.cs",
 		"D:\\Unreal\\NBC_Task10\\Task10\\Source\\Task10Editor.Target.cs"
 	],

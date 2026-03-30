@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TaskModule-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\NBC_Task10\Task10\Intermediate\Build\Win64\x64\Task10Editor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"D:\Unreal\NBC_Task10\Task10\Plugins\TaskModule\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TaskModule\TaskModule.cpp.obj"
+"D:\Unreal\NBC_Task10\Task10\Plugins\TaskModule\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TaskModule\PerModuleInline.gen.cpp.obj"
+"D:\Unreal\NBC_Task10\Task10\Plugins\TaskModule\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TaskModule\Default.rc2.res"
+/OUT:"D:\Unreal\NBC_Task10\Task10\Plugins\TaskModule\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TaskModule\UnrealEditor-TaskModule-Win64-DebugGame.lib"

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\nbc_task10\\task10\\intermediate\\build\\win64\\unrealeditor\\inc\\task10\\uht\\task10.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\nbc_task10\\task10\\intermediate\\build\\win64\\x64\\task10editor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\nbc_task10\\task10\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\task10\\definitions.task10.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

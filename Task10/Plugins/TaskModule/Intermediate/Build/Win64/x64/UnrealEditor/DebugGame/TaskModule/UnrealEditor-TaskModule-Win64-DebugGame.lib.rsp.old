@@ -1,0 +1,10 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TaskModule-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\NBC_Task10\Task10\Plugins\TaskModule\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TaskModule\Default.rc2.res"
+/OUT:"D:\Unreal\NBC_Task10\Task10\Plugins\TaskModule\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TaskModule\UnrealEditor-TaskModule-Win64-DebugGame.lib"

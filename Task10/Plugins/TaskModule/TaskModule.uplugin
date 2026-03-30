@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "My Log Plugin",
+  "Description": "모듈, 플러그인 연습",
+  "Category": "TaskModule",
+  "CreatedBy": "Namtae",
+  "CanContainContent": true,
+  "Modules": [
+    {
+      "Name": "TaskModule",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
